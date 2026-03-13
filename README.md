@@ -25,13 +25,13 @@ This application predicts the risk of multiple diseases using machine learning m
 All prediction models in this system are implemented using the **Random Forest Classifier**, a robust ensemble learning algorithm known for its high accuracy and ability to handle complex datasets.
 
 ### Heart Disease Prediction
-This module predicts the likelihood of heart disease using patient clinical data and medical indicators.
+- This module predicts the likelihood of heart disease using patient clinical data and medical indicators.
 
 ### Diabetes Prediction
-This module predicts the probability of diabetes based on patient health information and diagnostic measurements.
+- This module predicts the probability of diabetes based on patient health information and diagnostic measurements.
 
 ### Kidney Disease Prediction
-This module estimates the risk level of kidney disease using clinical and biochemical indicators related to kidney function.
+- This module estimates the risk level of kidney disease using clinical and biochemical indicators related to kidney function.
 
 
 ## Machine Learning Pipeline

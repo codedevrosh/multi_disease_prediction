@@ -13,6 +13,10 @@ The application is built using Python, Scikit-Learn, and Streamlit, and deployed
 Hugging Face Deployment  
 https://huggingface.co/spaces/codedevrosch/multi_disease_prediction
 
+## Application Preview
+
+![Application](application_preview.png)
+
 ---
 
 ## Diseases Supported
@@ -61,14 +65,14 @@ The following steps were used to build the models:
 
 ## Project Structure
 
-'''
+```
 multi_disease_prediction
 │
-├── Home.py
+├── Home.py  
 ├── requirements.txt
 ├── README.md
 │
-├── models
+├── models                 
 │ ├── heart_disease_model.pkl
 │ ├── diabetes_model.pkl
 │ └── kidney_model.pkl
@@ -84,7 +88,19 @@ multi_disease_prediction
 │ └── kidney_disease.ipynb
 │
 └── data
-├── heart.csv
-├── diabetes.csv
-└── kidney_disease.csv
-'''
+  ├── heart.csv
+  ├── diabetes.csv
+  └── kidney_disease.csv
+```
+
+---
+## Conclusion
+
+This project demonstrates how machine learning can be used to support early detection of common health conditions. By integrating multiple prediction models into a single Streamlit application, the system provides an easy-to-use interface for estimating the risk of heart disease, diabetes, and kidney disease.
+
+---
+
+##  Author
+
+Arockia Roshan A  
+Machine Learning & Data Science Enthusiast

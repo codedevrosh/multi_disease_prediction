@@ -11,7 +11,7 @@ The application is built using Python, Scikit-Learn, and Streamlit, and deployed
 ## Live Demo
 
 Hugging Face Deployment  
-https://huggingface.co/spaces/codedevrosch/multi_disease_prediction
+[https://huggingface.co/spaces/codedevrosch/multi_disease_prediction](https://huggingface.co/spaces/codedevrosh/multi_disease_prediction)
 
 ## Application Preview
 
